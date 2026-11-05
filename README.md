@@ -91,8 +91,6 @@ main.c -> app.c -> led_patterns.c -> board.c -> gpio.c -> gpio_regs.h (registers
 ## Possible extensions
 EXTI button input, single-write multi-pin BSRR function, PLL clock setup, UART driver.
 
-## License
-MIT
 
 
 
