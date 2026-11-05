@@ -1,0 +1,25 @@
+# STM32CubeIDE build folders
+Debug/
+Release/
+
+# STM32CubeIDE local settings
+.settings/
+
+# Local debugging configurations
+*.launch
+
+# Compiler-generated files
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.cyclo
+*.su
+
+# Backup files
+*.bak
+*.tmp
+*~
