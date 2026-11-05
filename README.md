@@ -1,6 +1,3 @@
-# STM32F407-Bare-Metal-GPIO-Driver
-HAL-free, register-level GPIO driver and SysTick-based LED/button controller in Embedded C on STM32F407G-DISC1 (Cortex-M4)
-
 # Bare-Metal GPIO Driver and LED/Button Controller on STM32F407G-DISC1
 
 HAL-free, register-level GPIO driver in Embedded C, with a SysTick-based LED/button controller, on the STM32F407G-DISC1 (ARM Cortex-M4).
